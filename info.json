@@ -1,12 +1,13 @@
 {
-  "name": "###NAME###",
-  "title": "###TITLE###",
-  "description": "###DESCRIPTION###",
+  "name": "aai-signal-transmission-tweaks",
+  "title": "AAI Signal Transmission Tweaks",
+  "description": "Opinionated tweaks to AAI Signal Transmission.",
   "author": "QuingKhaos",
   "homepage": "",
   "version": "1.0.0",
   "factorio_version": "2.0",
   "dependencies": [
-    "base >= 2.0.0"
+    "base >= 2.0.0",
+    "aai-signal-transmission >= 0.5.0"
   ]
 }
