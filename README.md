@@ -4,4 +4,4 @@
 
 Opinionated tweaks to [AAI Signal Transmission](https://mods.factorio.com/mod/aai-signal-transmission). For a full list of changes, take a look at the changelog.
 
-If you want to see some new tweaks, feel free to open a discussion thread on the mod portal or a GitHub issue. Eventually some non so opiniated tweaks will make into the original mod.
+If you want to see some new tweaks, feel free to open a discussion thread on the mod portal or a GitHub issue. Eventually some non so opiniated tweaks will make it into the original mod.
