@@ -1,3 +1,5 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: ????
+  Changes:
+    - [item=aai-signal-sender][item=aai-signal-receiver] Better subgroup placement if Schall Circuit Group is installed.
